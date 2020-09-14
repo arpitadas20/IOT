@@ -1,1 +1,8 @@
-
+In this practical we will be creating Telegram Bot using python and the telepot package.
+Step 1:- Go to telegram and search BotFather in telegram and text /start which replies with a messgae to start a new bot.
+step 2:- To craete a new bot of your name use /nebot.
+Step 3:- You need to give a username for your bot.
+Step 4:- Once we get the username, an message with a token number of our username arrives.
+Step 5:- Then using import telegram and using token number we can connect with our bot.
+Step 6:- We can give updates using /getUpdates.
+Step 7:- Then after using token number and chat id we can chat with our bot.
