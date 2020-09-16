@@ -1,14 +1,14 @@
 import telepot
-token = '1291907185:AAHvb59oPAOfwDIbMLxDkU4YYbGzvQDquss'
+token = '123456789:syhgfligily'
 TelegramBot = telepot.Bot(token)
 print (TelegramBot.getMe())
 
-https://api.telegram.org/bot1291907185:AAHvb59oPAOfwDIbMLxDkU4YYbGzvQDquss/getUpdates
+https://api.telegram.org/bot123456789:syhgfligily/getUpdates
 
-https://api.telegram.org/bot1291907185:AAHvb59oPAOfwDIbMLxDkU4YYbGzvQDquss/sendMessage?chat_id=1089788663&text=WeLoveIoT
+https://api.telegram.org/bot123456789:syhgfligily/sendMessage?chat_id=000000000&text=WeLoveIoT
 
 import telepot
-token = '1291907185:AAHvb59oPAOfwDIbMLxDkU4YYbGzvQDquss'
+token = '123456789:syhgfligily'
 TelegramBot = telepot.Bot(token)
 print (TelegramBot.getMe())
 def handle(msg):
